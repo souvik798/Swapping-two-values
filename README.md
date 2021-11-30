@@ -39,7 +39,7 @@ print("Swapped values are:",(a),(b))
 
 ~~~
 
-##output:
+##output
 
 ![git logo](tr.png)
 
